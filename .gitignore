@@ -4,3 +4,6 @@ venv
 # dir
 notebooks
 data
+
+# キャッシュ
+**/__pycache__/**
